@@ -1,6 +1,6 @@
 #  Blog API Backend - Learning Project
 
-> **⚠️ IMPORTANT**: Ce projet est en cours d'apprentissage et contient des vulnérabilités de sécurité identifiées. Il ne doit PAS être utilisé en production sans les corrections recommandées.
+
 
 ##  Description
 
